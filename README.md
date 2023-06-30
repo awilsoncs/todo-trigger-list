@@ -15,11 +15,6 @@
 - Nature trips
 - Journaling
 - Digital detox
-- Job applications
-- Resume updating
-- Interview skills
-- Mentorship
-- Job-related skills
 
 ## Relationships
 
@@ -42,6 +37,9 @@
 - Server maintenance
 - Workflow improvements
 - Documentation updates
+- Resume updating
+- Mentorship
+- Job-related skills
 
 ## Health and Wellness
 
